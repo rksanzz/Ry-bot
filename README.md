@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-𝒆𝒍𝒂𝒊𝒏𝒂𝒗𝟓<br></h1>
+𝒆𝒍𝒂𝒊𝒏𝒂𝒗𝟓 - Rsanzz<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/97577efecb8ae4afaf2ba.jpg" />
 </p>
@@ -31,8 +31,8 @@
 
 ## ```Let's be friends !```
 <p align="center">
-<a href="https://wa.me/6281338302495"><img src="https://img.shields.io/badge/-CONTACT%206XZY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/K0eLuHKuOYi3DcaUDb1JcK"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6281236167286"><img src="https://img.shields.io/badge/-CONTACT%206XZY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/HHbTWShvfQO4Kep09NGUFr"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="t.me/vmxone"><img src="https://img.shields.io/badge/Telegram-195EFF?style=for-the-badge&logo=telegram&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
